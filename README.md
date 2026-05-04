@@ -15,6 +15,12 @@ By blending deep learning architectures with rigorous, physics-based modeling, S
 
 Throughout this course, students will explore the theoretical foundations and hands-on applications of learning algorithms in scientific computing. Whether delving into the mathematical rigors of approximation theory, tackling classic numerical methods, or implementing cutting-edge Operator Learning and Physics-Informed Neural Networks (PINNs), this curriculum offers a deep-dive into the methods shaping the future of scientific research and engineering.
 
+### Prerequisites
+
+To get the most out of this course, students are expected to have a solid foundation in:
+- **Mathematics:** Multivariable calculus, linear algebra, and basic probability/statistics. Familiarity with ordinary and partial differential equations (ODEs/PDEs) is highly recommended.
+- **Programming:** Basic proficiency in Python, as the practical sessions heavily rely on libraries such as NumPy, SciPy, and PyTorch.
+
 ---
 
 ## Course Syllabus & Lecture Notes
