@@ -2,10 +2,7 @@
 numpy
 scipy
 matplotlib
+plotly
 torch
-torchvision
 jupyter
 notebook
-pandas
-scikit-learn
-tqdm
