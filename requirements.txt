@@ -1,0 +1,11 @@
+# Common Scientific / ML Dependencies
+numpy
+scipy
+matplotlib
+torch
+torchvision
+jupyter
+notebook
+pandas
+scikit-learn
+tqdm
