@@ -36,7 +36,8 @@ The curriculum is carefully structured to map robust theory to practical applica
 *   **Week 7:** Operator Learning
 *   **Week 8:** Randomized Numerical Linear Algebra in SciML
 
-> 📌 **Lecture Notes:** The complete reading material is available in the [`lecture_notes/`](./lecture_notes) directory as a single merged resource (`ml_for_sci_computing_lecture_notes_montanelli_dolean_2026.pdf`), alongside individual week-by-week chapter files.
+> 📌 **Lecture Notes:** The complete reading material for this course is openly available on **HAL (Hyper Article en Ligne)**. 
+> *[Link to the HAL archive will be provided here once published]*
 
 ---
 

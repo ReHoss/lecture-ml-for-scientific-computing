@@ -4,5 +4,4 @@ scipy
 matplotlib
 plotly
 torch
-jupyter
 notebook
