@@ -1,6 +1,6 @@
 #  Machine Learning for Scientific Computing and Numerical Analysis
 
-Welcome to the official repository for the **Machine Learning for Scientific Computing and Numerical Analysis** course, taught in the 2026 academic year at École Polytechnique and the Eindhoven University of Technology within the EuroteQ program. 
+Welcome to the official repository for the **Machine Learning for Scientific Computing and Numerical Analysis** course, taught in the 2026 academic year at [École Polytechnique](https://www.polytechnique.edu/) and the [Eindhoven University of Technology](https://www.tue.nl/en/) within the [EuroteQ program](https://euroteq.eurotech-universities.eu/). 
 
 **Principal Lecturer:** Hadrien Montanelli & Victorita Dolean  
 **Teaching Assistant:**  Hosseinkhan-Boucher Rémy
