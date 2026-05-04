@@ -1,25 +1,25 @@
-# APM52009: Machine Learning for Scientific Computing and Numerical Analysis
+#  Machine Learning for Scientific Computing and Numerical Analysis
 
-Welcome to the official repository for the **Machine Learning for Scientific Computing and Numerical Analysis (APM52009)** course, taught in the 2026 academic year.
+Welcome to the official repository for the **Machine Learning for Scientific Computing and Numerical Analysis** course, taught in the 2026 academic year at École Polytechnique and the Eindhoven University of Technology within the EuroteQ program. 
 
-**Instructors:** Prof. Victorita Dolean & Prof. Hadrien Montanelli  
-**Teaching Team:** The APM52009 Academic Staff  
+**Principal Lecturer:** Hadrien Montanelli & Victorita Dolean  
+**Teaching Assistant:**  Hosseinkhan-Boucher Rémy
 
 ---
 
-## 📖 About the Course
+## About the Course
 
 How is modern machine learning revolutionizing traditional computational sciences? This course bridges the gap between classical numerical analysis and the rapidly evolving field of **Scientific Machine Learning (SciML)**. 
 
 By blending deep learning architectures with rigorous, physics-based modeling, SciML provides powerful new tools for solving complex physical phenomena, simulating partial differential equations (PDEs), and addressing large-scale optimization challenges. 
 
-Throughout this course, students will explore the theoretical foundations and hands-on applications of Neural Networks in scientific computing. Whether delving into the mathematical rigors of approximation theory, tackling classic numerical methods, or implementing cutting-edge Operator Learning and Physics-Informed Neural Networks (PINNs) in PyTorch, this curriculum offers a deep-dive into the methods shaping the future of scientific research and engineering.
+Throughout this course, students will explore the theoretical foundations and hands-on applications of learning algorithms in scientific computing. Whether delving into the mathematical rigors of approximation theory, tackling classic numerical methods, or implementing cutting-edge Operator Learning and Physics-Informed Neural Networks (PINNs), this curriculum offers a deep-dive into the methods shaping the future of scientific research and engineering.
 
 ---
 
-## 📚 Course Syllabus & Lecture Notes
+## Course Syllabus & Lecture Notes
 
-The curriculum is carefully structured to map robust theory to impactful practical applications:
+The curriculum is carefully structured to map robust theory to practical applications:
 
 *   **Week 1:** Introduction & Scope of Scientific Machine Learning
 *   **Week 2:** Neural Network Approximation Theory
@@ -34,11 +34,13 @@ The curriculum is carefully structured to map robust theory to impactful practic
 
 ---
 
-## 💻 Practical Sessions (PCs)
+## Practical Sessions
 
-Theory is only as good as its implementation. The [`practical_sessions/`](./practical_sessions) directory contains the Jupyter Notebooks (provided without solutions) and necessary helper scripts. These sessions are designed to give you continuous, hands-on experience with the concepts discussed in lectures.
+The [`practical_sessions/`](./practical_sessions) directory contains the Jupyter Notebooks (provided without solutions) and necessary helper scripts. These sessions are designed to give you continuous, hands-on experience with the concepts discussed in lectures.
 
 ### Environment Setup
+
+> 💡 **Hardware Requirements:** All practical sessions are designed to run efficiently on a standard laptop CPU; **no GPU is required**.
 
 To run the practical sessions, you will need a fully equipped Python environment containing libraries such as PyTorch, NumPy, SciPy, and Matplotlib. We strongly recommend using `venv` or `conda` to manage your dependencies cleanly:
 
