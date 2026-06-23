@@ -36,7 +36,7 @@ The curriculum is carefully structured to map robust theory to practical applica
 *   **Week 7:** Operator Learning
 *   **Week 8:** Randomized Numerical Linear Algebra in SciML
 
-> 📌 **Lecture Notes:** The complete reading material for this course is openly available on HAL: https://hal.science/hal-04976856/
+> 📌 **Lecture Notes:** The complete reading material for this course is openly available on [HAL](https://hal.science/hal-04976856/).
 
 ---
 
